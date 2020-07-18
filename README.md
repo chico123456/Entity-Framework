@@ -1,4 +1,6 @@
 # Entity-Framework
+Um Code First básico com Entity Framework
+
 Ferramentas necessárias:
  - Visual Studio Community;
  - SQL Server Express (instâncias);
